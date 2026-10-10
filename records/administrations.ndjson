@@ -1,0 +1,16 @@
+{"event_id":"TX-10001","drug_code":"MD-ASP","administered_at":"2037-04-02T09:15Z","units":5,"status":"administered","revision":1}
+{"event_id":"TX-10002","drug_code":"MD-AMO","administered_at":"2037-04-03T10:00Z","units":4,"status":"administered","revision":1}
+{"event_id":"TX-10003","drug_code":"MD-MEL","administered_at":"2037-04-04T11:30Z","units":2,"status":"administered","revision":1}
+{"event_id":"TX-10004","drug_code":"MD-DEX","administered_at":"2037-04-05T08:45Z","units":3,"status":"administered","revision":1}
+{"event_id":"TX-10005","drug_code":"MD-GAB","administered_at":"2037-04-06T12:00Z","units":1,"status":"voided","revision":1}
+{"event_id":"TX-10005","drug_code":"MD-GAB","administered_at":"2037-04-06T12:05Z","units":2,"status":"administered","revision":2}
+{"event_id":"TX-10001","drug_code":"MD-ASP","administered_at":"2037-04-07T09:15Z","units":7,"status":"corrected","revision":2}
+{"event_id":"TX-10006","drug_code":"MD-ASP","administered_at":"2037-04-08T14:20Z","units":10,"status":"administered","revision":1}
+{"event_id":"TX-10007","drug_code":"MD-AMO","administered_at":"2037-04-09T16:00Z","units":3,"status":"administered","revision":1}
+{"event_id":"TX-10008","drug_code":"MD-MEL","administered_at":"2037-04-10T07:40Z","units":1,"status":"administered","revision":1}
+{"event_id":"TX-10009","drug_code":"MD-GAB","administered_at":"2037-04-11T18:10Z","units":3,"status":"administered","revision":1}
+{"event_id":"TX-10010","drug_code":"MD-AMO","administered_at":"2037-04-31T09:00Z","units":9,"status":"administered","revision":1}
+{"event_id":"TX-10011","drug_code":"MD-ZZZ","administered_at":"2037-04-12T09:00Z","units":5,"status":"administered","revision":1}
+{"event_id":"TX-10012","drug_code":"MD-MEL","administered_at":"2037-04-12T10:00Z","units":true,"status":"administered","revision":1}
+not json
+

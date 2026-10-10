@@ -1,0 +1,11 @@
+drug_code,name,on_hand,minimum_stock
+MD-ASP,Aspirin,20,10
+MD-AMO,Amoxicillin,12,8
+MD-MEL,Meloxicam,5,6
+MD-DEX,Dexamethasone,30,5
+MD-GAB,Gabapentin,4,4
+MD-ASP, Aspirin Chewable ,18,10
+MD-BAD,Broken Count,ten,2
+XX-ABC,Unknown,4,2
+MD-PIP,Bad|Name,3,5
+

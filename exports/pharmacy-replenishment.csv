@@ -1,0 +1,2 @@
+drug_code,name,on_hand,administered_units,projected_stock,minimum_stock,reorder_units
+MD-OLD,Legacy row,0,0,0,0,0
