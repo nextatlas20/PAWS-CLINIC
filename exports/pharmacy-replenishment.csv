@@ -1,2 +1,5 @@
 drug_code,name,on_hand,administered_units,projected_stock,minimum_stock,reorder_units
-MD-OLD,Legacy row,0,0,0,0,0
+MD-GAB,Gabapentin,4,5,-1,4,5
+MD-MEL,Meloxicam,5,3,2,6,4
+MD-AMO,Amoxicillin,12,7,5,8,3
+MD-ASP,Aspirin Chewable,18,10,8,10,2
